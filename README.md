@@ -1,2 +1,2 @@
 # database-of-houses
-data about houses will be stored and processed here
+data about houses in text and binary files will be stored and processed here
